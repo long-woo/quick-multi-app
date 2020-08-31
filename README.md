@@ -1,3 +1,3 @@
-# quick-xp
+# quick-multi-app
 
 A vue project template
